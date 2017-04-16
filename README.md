@@ -49,7 +49,7 @@ boxplot set to 1.5 SD from mean.*
 1. SPSS output - Distribution of anomalies in each region, shown through boxplots
 1. SPSS output - travel patterns by Month X Region X Category(arrival vs departure)
 
-### Visualisation
+### Other Visualisations
 
 1. JPEG graph of travel patterns by Month X Region X Category (arrival vs departure) -- in colour (based on above)
 1. Updated 'Net change in departures by month' graph, *now with darker lines* 
@@ -57,5 +57,7 @@ boxplot set to 1.5 SD from mean.*
 1. R attempt at applying [AnomalyDetectionTS](https://github.com/twitter/AnomalyDetection) on dataset 
 
 *Note: Anomaly Detection TS script failed due to non-linear Changi data. Anomaly detection done through boxplot graphing instead; errors defined as values >1.5 SD from that variable's mean.*
+
+Complete report with other visualisations not released. Please contact me for details. 
 
 *Last updated: Feb 2017*
